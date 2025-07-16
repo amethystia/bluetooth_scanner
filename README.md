@@ -38,6 +38,7 @@ bluetooth_scanner/
 │       └── Info.plist
 ├── pubspec.yaml
 └── README.md
+
 核心功能说明
 1. 蓝牙扫描功能
 
